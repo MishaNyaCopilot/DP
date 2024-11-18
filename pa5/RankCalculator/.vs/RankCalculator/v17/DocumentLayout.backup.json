@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikol\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0424\u0440\u0438\u043B\u0430\u043D\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MishaNyaIsTaken\\\u0417\u0430\u043A\u0430\u0437 #1 -- \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B --\\ds-2024\\pa5\\RankCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE7C96-9B50-4811-8B19-F2422E453619}|RankCalculator.csproj|c:\\users\\nikol\\desktop\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u0444\u0440\u0438\u043B\u0430\u043D\u0441\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\mishanyaistaken\\\u0437\u0430\u043A\u0430\u0437 #1 -- \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B --\\ds-2024\\pa5\\rankcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECE7C96-9B50-4811-8B19-F2422E453619}|RankCalculator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE7C96-9B50-4811-8B19-F2422E453619}|RankCalculator.csproj|c:\\users\\nikol\\desktop\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u0444\u0440\u0438\u043B\u0430\u043D\u0441\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\mishanyaistaken\\\u0437\u0430\u043A\u0430\u0437 #1 -- \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B --\\ds-2024\\pa5\\rankcalculator\\rankcalculatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECE7C96-9B50-4811-8B19-F2422E453619}|RankCalculator.csproj|solutionrelative:rankcalculatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RankCalculatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0424\u0440\u0438\u043B\u0430\u043D\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MishaNyaIsTaken\\\u0417\u0430\u043A\u0430\u0437 #1 -- \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B --\\ds-2024\\pa5\\RankCalculator\\RankCalculatedEvent.cs",
+              "RelativeDocumentMoniker": "RankCalculatedEvent.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0424\u0440\u0438\u043B\u0430\u043D\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MishaNyaIsTaken\\\u0417\u0430\u043A\u0430\u0437 #1 -- \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B --\\ds-2024\\pa5\\RankCalculator\\RankCalculatedEvent.cs",
+              "RelativeToolTip": "RankCalculatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T16:14:33.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0424\u0440\u0438\u043B\u0430\u043D\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MishaNyaIsTaken\\\u0417\u0430\u043A\u0430\u0437 #1 -- \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B --\\ds-2024\\pa5\\RankCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0424\u0440\u0438\u043B\u0430\u043D\u0441\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MishaNyaIsTaken\\\u0417\u0430\u043A\u0430\u0437 #1 -- \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B --\\ds-2024\\pa5\\RankCalculator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T12:09:20.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

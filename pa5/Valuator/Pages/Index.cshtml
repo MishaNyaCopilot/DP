@@ -1,0 +1,25 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Главная";
+}
+
+<div>
+    <form method="post">
+        <div class="row-2">Текст для оценки:</div>
+        <textarea name="text" rows="5" cols="50"></textarea>
+
+        <div class="row-2">
+            <label for="country">Выберите страну:</label>
+            <select id="country" name="country">
+                <option value="Russia">Россия</option>
+                <option value="France">Франция</option>
+                <option value="Germany">Германия</option>
+                <option value="USA">США</option>
+                <option value="India">Индия</option>
+            </select>
+        </div>
+
+        <input type="submit" />
+    </form>
+</div>
